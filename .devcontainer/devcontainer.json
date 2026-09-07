@@ -1,1 +1,4 @@
-console
+{
+  "name": "Default Codespace",
+  "image": "://microsoft.com"
+}
